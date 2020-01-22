@@ -39,7 +39,7 @@ copy example.ENV .ENV /a
 
 then edit the file as follows :
 ```sh
-(belum ada)
+
 ```
 
 
