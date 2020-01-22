@@ -1,6 +1,6 @@
-# Tani Box
+# Hiring Channels App
 
-TaniBox is an Android application that (movement) in the Argocultural, that allows farmers to sell fresh fruits and vegetables directly.
+Hirring Channels is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event and uses the web in the application of hirirng channels operation.
 
 ![](hirringChannels.PNG)
 
