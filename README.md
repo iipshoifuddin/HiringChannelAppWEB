@@ -2,7 +2,7 @@
 
 TaniBox is an Android application that (movement) in the Argocultural, that allows farmers to sell fresh fruits and vegetables directly.
 
-![](hirringChannels.png)
+![](hirringChannels.PNG)
 
 ## pre-Instalation
 
