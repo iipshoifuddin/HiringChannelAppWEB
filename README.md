@@ -39,14 +39,7 @@ copy example.ENV .ENV /a
 
 then edit the file as follows :
 ```sh
-API_ENDPOINT=http://34.202.135.29:4000/api/v1/
-
-ONESIGNAL_API_KEY=1bf005c4-154a-4587-851d-b502ebc6ea62
-
-DARK_GREEN = #035943
-GREEN = #68CAA2
-WHITE = #FFFFFF
-BLUE = #686FCA
+(belum ada)
 ```
 
 
@@ -55,5 +48,9 @@ BLUE = #686FCA
 To run this application, you must run the following command :
 
 ```sh
-npx react-native run-android
+npm start
+```
+
+```sh
+open web -> http://localhost:3000/
 ```
