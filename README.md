@@ -29,12 +29,12 @@
 
 ## Usage for development
 
-1. Open your terminal or command prompt
-2. Type `git clone https://github.com/iipshoifuddin/HiringChannelsWithReactNative`
-3. Open the folder and type `npm install` for install dependencies
-4. Create Environment Variable [here](#create-environment-variable)
-5. Before run this, you must run backend first
-6. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
+1. Open app's directory in CMD or Terminal
+2. Type `npm install`
+3. Make new file a called **.env**, set up first [here](#create-environment-variable)
+4. Before run this, you must run backend first
+5. Choose HTTP Method and enter request url.(ex. localhost:8081)
+
 
 ## Create Environment Variable
 
