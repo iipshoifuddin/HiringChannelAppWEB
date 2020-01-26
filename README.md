@@ -23,7 +23,6 @@
 ## Requirements
 - [`nodeJS`](https://nodejs.org/en/download/)
 - [`npm`](https://www.npmjs.com/get-npm)
-- [`react-native-cli`](https://facebook.github.io/react-native/docs/getting-started)
 - [`Backend HiringChannels`](https://github.com/iipshoifuddin/hiringChannelAppRestfull)
 
 ## Usage for development
