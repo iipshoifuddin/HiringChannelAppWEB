@@ -60,14 +60,8 @@ BASE_URL=Your Base URL
 ## Screenshots
 
 <div align="center">
-    <img height="250" src="./ScreenShot/mockup.png">
+    <img height="250" src="./hirringChannels.PNG">
 </div>
-
-## Release APK
-
-<a href="https://drive.google.com/file/d/1liwwppuoLzjfiJe02Y9r6OhYUjdW64JB/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Download%20from-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
-</a>
 
 ## Related Project (Backend)
 
