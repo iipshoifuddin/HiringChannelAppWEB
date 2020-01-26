@@ -1,56 +1,76 @@
-# Hiring Channels App
+<h1 align="center">Hiring Channels</h1>
+<p align="center">
+  <img width="100" height="100" src="./ScreenShot/logo.png"/>
+  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+</p>
+<p align="center">
+  Built with React Native.
+</p>
 
-Hirring Channels is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event and uses the web in the application of hirirng channels operation.
+## Table of Contents
 
-![](hirringChannels.PNG)
+- [Introduction](#introduction)
+- [Requirements](#requirements)
+- [Usage](#usage-for-development)
+- [Create Environment Variable](#create-environment-variable)
+- [Screenshots](#screenshots)
+- [Release APK](#release-apk)
+- [Related Project](#related-project-backend)
 
-## pre-Instalation
+## Introduction
 
-before installing this application, first install Node JS
+<b>Hiring Channels</b> Hiring Channels is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event and this aplication build with react native
 
-_https://nodejs.org/en/download/
+## Requirements
+- [`nodeJS`](https://nodejs.org/en/download/)
+- [`npm`](https://www.npmjs.com/get-npm)
+- [`react-native-cli`](https://facebook.github.io/react-native/docs/getting-started)
+- [`Backend HiringChannels`](https://github.com/iipshoifuddin/hiringChannelAppRestfull)
 
-## Installation
+## Usage for development
 
-OS X & Linux & Windows:
+1. Open your terminal or command prompt
+2. Type `git clone https://github.com/iipshoifuddin/HiringChannelsWithReactNative`
+3. Open the folder and type `npm install` for install dependencies
+4. Create Environment Variable [here](#create-environment-variable)
+5. Before run this, you must run backend first
+6. Type `react-native run-android` for run this app. **_Make sure your device is connected with debugging mode_**.
 
-```sh
-npm init
+## Create Environment Variable
+
+For Linux :
+```
+$ cp .env.example .env
+$ nano .env
 ```
 
-```sh
-npm install
+For Windows :
 ```
-
-
-## Development setup
-
-Before using this application, first enter the project folder _your_project and create a dotEnv file:
-
-Linux :
-```sh
-cp example.ENV .ENV
+$ copy .env.example .env
 ```
+and open .env file with text editor
 
-Windows :
-```sh
-copy example.ENV .ENV /a
-```
-
-then edit the file as follows :
-```sh
+# Set API KEY
 
 ```
-
-
-## Running
-
-To run this application, you must run the following command :
-
-```sh
-npm start
+API_ENDPOINT=Your endpoint API
+BASE_URL=Your Base URL
 ```
 
-```sh
-open web -> http://localhost:3000/
-```
+## Screenshots
+
+<div align="center">
+    <img height="250" src="./ScreenShot/mockup.png">
+</div>
+
+## Release APK
+
+<a href="https://drive.google.com/file/d/1liwwppuoLzjfiJe02Y9r6OhYUjdW64JB/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Download%20from-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
+</a>
+
+## Related Project (Backend)
+
+- [`Backend HiringChannels`](https://github.com/iipshoifuddin/hiringChannelAppRestfull)
+
+
