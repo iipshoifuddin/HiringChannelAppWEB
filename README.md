@@ -60,7 +60,7 @@ BASE_URL=Your Base URL
 ## Screenshots
 
 <div align="center">
-    <img height="250" src="./hirringChannels.PNG">
+    <img src="./hirringChannels.PNG">
 </div>
 
 ## Related Project (Backend)
